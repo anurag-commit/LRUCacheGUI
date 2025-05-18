@@ -1,0 +1,11 @@
+# ninja log v6
+11	111	7691900100972139	M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/cmake.verify_globs	70aa775b6ed3aaaf
+113	1201	7691900111974156	LRUCacheGUI_autogen/timestamp	e9dec10cd5ab3089
+113	1201	7691900111974156	LRUCacheGUI_autogen/mocs_compilation.cpp	e9dec10cd5ab3089
+113	1201	7691900111974156	M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/LRUCacheGUI_autogen/timestamp	e9dec10cd5ab3089
+113	1201	7691900111974156	M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/LRUCacheGUI_autogen/mocs_compilation.cpp	e9dec10cd5ab3089
+1287	3356	7691900113738583	CMakeFiles/LRUCacheGUI.dir/lrucache.cpp.obj	a31ffa0c87b5029b
+1275	4316	7691900113618526	CMakeFiles/LRUCacheGUI.dir/LRUCacheGUI_autogen/mocs_compilation.cpp.obj	46adcdc8d191e7d4
+1279	4361	7691900113658546	CMakeFiles/LRUCacheGUI.dir/main.cpp.obj	bbaa9a2851fbe368
+1283	5116	7691900113698546	CMakeFiles/LRUCacheGUI.dir/mainwindow.cpp.obj	cdbcbc92bd7e149b
+5116	5352	7691900152026732	LRUCacheGUI.exe	1c8368fe52015234

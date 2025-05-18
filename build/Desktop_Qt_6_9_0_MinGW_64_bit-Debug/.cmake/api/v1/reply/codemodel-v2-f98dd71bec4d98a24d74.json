@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-94671968fd14bf8845ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LRUCacheGUI",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "LRUCacheGUI::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LRUCacheGUI-Debug-b7bddb33e20c8b63b3a2.json",
+					"name" : "LRUCacheGUI",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LRUCacheGUI_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LRUCacheGUI_autogen-Debug-0dd5313df6b3471d0231.json",
+					"name" : "LRUCacheGUI_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "LRUCacheGUI_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-LRUCacheGUI_autogen_timestamp_deps-Debug-8f3e449b31bb322a5a9a.json",
+					"name" : "LRUCacheGUI_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+		"source" : "M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

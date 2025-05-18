@@ -1,0 +1,17 @@
+# ninja log v6
+74	4528	7691888373551649	LRUCacheGUI_autogen/timestamp	88e326e516ded4b3
+9	73	7691894789984860	M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	3036a9fe12fa2e69
+4534	7834	7691888375275380	CMakeFiles/LRUCacheGUI.dir/LRUCacheGUI_autogen/mocs_compilation.cpp.obj	b2c3b9b19b7fde99
+74	4528	7691888373551649	LRUCacheGUI_autogen/mocs_compilation.cpp	88e326e516ded4b3
+74	4528	7691888373551649	M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LRUCacheGUI_autogen/mocs_compilation.cpp	88e326e516ded4b3
+74	4528	7691888373551649	M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LRUCacheGUI_autogen/timestamp	88e326e516ded4b3
+4549	6830	7691888375426527	CMakeFiles/LRUCacheGUI.dir/lrucache.cpp.obj	735e741713125045
+4538	7889	7691888375325624	CMakeFiles/LRUCacheGUI.dir/main.cpp.obj	becdf26de9a0d93
+73	1104	7691894799944715	build.ninja	e4288431abbb512d
+8	69	7691894800598946	M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	3036a9fe12fa2e69
+109	338	7691894801617191	LRUCacheGUI_autogen/timestamp	88e326e516ded4b3
+109	338	7691894801617191	LRUCacheGUI_autogen/mocs_compilation.cpp	88e326e516ded4b3
+109	338	7691894801617191	M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LRUCacheGUI_autogen/timestamp	88e326e516ded4b3
+109	338	7691894801617191	M:/Integrated MTech/Projects/Qt/LRU_Cache_GUI/LRUCacheGUI/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/LRUCacheGUI_autogen/mocs_compilation.cpp	88e326e516ded4b3
+339	4687	7691894803910662	CMakeFiles/LRUCacheGUI.dir/mainwindow.cpp.obj	3a82d461e34b22ae
+4687	5019	7691894847390820	LRUCacheGUI.exe	d446c55a972c44b1
